@@ -1,1 +1,2 @@
-Hi! This is file B
+I just wanna a conflict here.
+hey !
